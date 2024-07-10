@@ -1,5 +1,5 @@
 const configurl = {
-    apiUrl: 'https://g20recetas-698e5be8c52d.herokuapp.com'
+  apiUrl: process.env.REACT_APP_API_URL
   };
   
   export default configurl;
