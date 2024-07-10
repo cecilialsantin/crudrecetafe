@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-pink {
+  background-color: #FFC0CB; /* Color rosa */
+}
+
+.text-grey {
+  color: #696868; /* Gris oscuro */
+}
+
+.text-grey {
+  color: #6c757d;
+}
+
+.bg-pink-light {
+  background-color: #ffe6e6;
+}
+
+.border-info {
+  border-color: #17a2b8;
+}
+
+.border-secondary {
+  border-color: #6c757d;
+}
+
+.bg-light {
+  background-color: #f8f9fa;
+}
